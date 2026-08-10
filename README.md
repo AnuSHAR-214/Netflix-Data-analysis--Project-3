@@ -6,6 +6,12 @@ a standalone HTML version of the same dashboard.
 **Status:** working, with three data-integrity defects that must be fixed before
 any number here is quotable. See [Evaluation](#evaluation).
 
+## Live Dashboard
+
+**Live link:** https://anushar-214.github.io/Netflix-Data-analysis--Project-3/netflix_dashboard.html
+
+This is the `netflix_dashboard.html` file above, served live via GitHub Pages.
+
 ---
 
 ## Contents
