@@ -12,6 +12,17 @@ any number here is quotable. See [Evaluation](#evaluation).
 
 This is the `netflix_dashboard.html` file above, served live via GitHub Pages.
 
+## Power BI Report
+
+**Report link (requires sign-in):** https://app.powerbi.com/groups/me/reports/9bf97408-3df5-4674-92ad-311e1a37afdd?ctid=d3de91d7-5bb6-4ce1-a775-489e8e7143a8&pbi_source=linkShare
+
+This opens the Power BI report in the Power BI Service. It is **not** anonymously public — you
+need a Microsoft account that has been granted access to the workspace. If you hit a sign-in
+wall, use the live HTML dashboard above instead.
+
+To explore the report yourself, download `Netflix_dashboard_v4_indigo.pbix` from this repo and
+open it in Power BI Desktop (free from Microsoft).
+
 ---
 
 ## Contents
